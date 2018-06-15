@@ -26,7 +26,7 @@ public class Usuario{
     public void setUser(String User) {
         this.User = User;
     }
-
+    
     public String getPass() {
         return Pass;
     }
